@@ -1,0 +1,6 @@
+email,customerId,firstName,lastName,Date_of_Birth
+qa+6db16ca7-af8f-45cb-8d05-0cf6687c038c@example.com,e155511b-54d5-4b2c-b015-5e1641f40380,Lisa,Lawrence,2021-08-07
+qa+1aecba23-35d3-43d6-b52e-2127fd032327@example.com,41880dbe-2584-4f42-b61e-dc4af4b15718,Linda,Guzman,2021-08-01
+qa+1ff98e8f-3a8e-430a-b708-59ca0740bde7@example.com,847ac93f-649c-48a7-8191-a6917284b839,Shelby,Shaffer,2021-08-07
+qa+2485a742-414d-46d5-acae-39531ba9ebad@example.com,4b17a2db-ba7c-4953-a63c-d5021d9dabfc,Alicia,Freeman,2021-08-08
+qa+7dd4714d-5f9c-411a-9be2-957872cbda6c@example.com,1f141ced-ddb0-42a2-a814-c3666869c294,Jill,Swanson,2021-08-07
